@@ -1,1 +1,3 @@
 This is my first Demo for lesson 3.
+
+Practicing Demo 2: Tracking File Changes.
