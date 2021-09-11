@@ -1,5 +1,8 @@
 This is my first Demo for lesson 3.
+<<<<<<< HEAD
 
 Practicing Demo 2: Tracking File Changes.
 
 New Commit for Demo 3: Rolling Back to Previous commits.
+=======
+>>>>>>> parent of 471d488 (Added line for Demo 2)
